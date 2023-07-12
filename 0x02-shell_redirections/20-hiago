@@ -1,2 +1,2 @@
 #!/biin/bash
-tr -d "Cc"
+tr -d [cC]
